@@ -1,3 +1,9 @@
 ## InnovaPulse Ventures - Website WIP
 
-![Langing Page Demo](.png)
+  ## Key Stack:
+  - NextJS, React
+  - Tailwind CSS
+  - TypeScript
+  - Framer Motion
+
+![Langing Page Demo](innova.png)
